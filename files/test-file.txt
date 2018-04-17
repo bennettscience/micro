@@ -1,0 +1,6 @@
+title: Test File
+date: 2018-04-17
+---
+This is a test file. It lives on Github.
+
+I think Pico can read from any source as long as it has the filepath. I'm curious if Python can iterate folders hosted on Github, though. If it can, it would make publishing things much easier.
