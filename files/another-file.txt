@@ -1,0 +1,4 @@
+title: Another File
+date: 2017-04-18
+---
+This is another text file so I can play more effectively with the github api.
