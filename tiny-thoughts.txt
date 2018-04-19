@@ -1,0 +1,6 @@
+title: Tiny Thoughts
+date: 2018-04-16
+---
+Firing up a new section of the oh hey. This is a lighter-weight version of the blog, somewhere to put small, mostly unfiltered thoughts.
+
+It'll have an RSS feed if you want to subscribe to something less formal. You can find it here. No promises on how compelling anything will be.
