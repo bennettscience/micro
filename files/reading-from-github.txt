@@ -1,0 +1,8 @@
+title: Reading from GitHub
+date: 2018-04-19
+---
+I've made some changes to the structure of the Pico platform and <i>this</i> instance is now reading from a remote GitHub repository. It makes publishing easier because I don't have to connect to a server and copy files into a directory.
+
+Even better, the hosting location is now configurable in the settings file. It looks for 'local' or 'remote' defined and changes the path used to display posts. This is build using the GitHub API, which returns JSON objects. The Pico engine parses the JSON to build individual posts.
+
+Additionally, I added a JSON -> RSS module which still creates a functional RSS feed for the site. It still uses cron on the server, but hey...progress moves along.
