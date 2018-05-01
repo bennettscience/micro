@@ -1,0 +1,19 @@
+title: My Septic Repair, pt. 1
+date: 2018-05-01
+---
+I really need to catalog stuff I do around the house so I don't forget how to do it in the future. Long story short, my septic field is in the process of failing and I need to install a new system. The tank is brand new, so that saves me a day of work and $1000, which is nice.
+
+Without going into too much detail, modern septic systems work as mini water purification plants on your property. Effluent flows into a tank where solids and liquids separate. The liquid is released into a drainage field and the field bed (gravel, soils) naturally purify the liquid as it seeps back down toward the groundwater. It sounds gross, but the required distance from the bottom fo the field to the top of the water table is great enough to ensure the liquid is purified. Bacteria in the ground metabolize potential toxins and there are strict codes for distances from streams and wells. (Besides, municipal water treatment systems use the same process, just artificially created in large buildings before dumping the liquid back into a river or lake.)
+
+I'm doing the work myself and it involves several steps. Since my property is so old (I think the original structure was built in the 1930's or 40's) there is no record of a system on my mortgage, even though there is clearly one there. Rules vary from county to county, but to do this legally, I need to request a permit from the county to replace a faulty system rather than repair.
+
+The first step was to have a certified soil scientist come out and perform some core sampling to determine how well or poorly the soil drains liquid. There are limits on how quickly this can happen and it will affect the design specifications given to you by the county health department. It's called a <a href="https://en.wikipedia.org/wiki/Percolation_test">percolation test</a> and is something you can do at home if you're curious about your soil.
+
+My soil is quite sandy, but the nice, coarse kind, so water flows well without flowing too quickly. I can use a standard gravity system, so all I need to do is get water from the tank to the field and physics does the rest.
+
+<img src="https://c1.staticflickr.com/1/832/26962244127_e8b0c43948_c.jpg" />
+<i>"Drafting" flickr photo by bennettscience https://flickr.com/photos/bennettscience/26962244127 shared under a Creative Commons (BY) license</i>
+
+The next step is to submit a scale diagram of my property showing my house, current tank, well, and the proposed field. Once that's in, I can get a pre-construction inspection scheduled and then I'll be able to rent that excavator and dig up the yard.
+
+To be continued...
