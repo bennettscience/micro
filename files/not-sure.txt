@@ -1,0 +1,8 @@
+title: Not Sure date: 2018-05-21 --- I'm not entirely sure what to do with this space. It's been a couple of weeks since I've written. I moved my main blog back to 
+WordPress because Jekyll wasn't helping my writing habit. 
+
+I've started some graduate classes and those are taking up the majority of my free time with reading and discussion forum posts (ugh).
+
+A micro site is nice. I need to find a more purposeful use for it. No database is cool, but I have to be more intentional about posting.
+
+Maybe I can write up a quick web extension to create text files through the GitHub API. Maybe that would help. Not really sure where this will go.
